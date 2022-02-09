@@ -1,0 +1,15 @@
+{
+  "name": "cable_counter",
+  "version": "1.0.0",
+  "description": "Software for interfacing with Reach System's Cable Counter",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/critch646/electron_cable_counter",
+  "author": "Zeke Critchlow",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^17.0.0"
+  }
+}
